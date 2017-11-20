@@ -9,12 +9,7 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 * re-routes the webpage back to the index, where the burger is now in the devoured column (via Handlebars)
 3. CREATE a new burger using the "Place Order" form, which...
 * hits a /burger/create route in Express to insert a new burger into the MySQL database
-* re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
-Just for Fun
-The app also has a funny "Whine" feature, where random sound effects are played to grieve a devoured burger. This feature uses jQuery click listeners.
-Lastly, the app's front-end design uses Bootstrap. This means that your burgers look just as tasty on mobile as they do on desktop. Please see the screenshots below...
-Screenshots
-* Desktop View
+* re-routes the webpage back to the index, where the burger is now ready to be esktop View
 o 
 * Mobile View
 o 
