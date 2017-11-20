@@ -10,7 +10,4 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 3. CREATE a new burger using the "Place Order" form, which...
 * hits a /burger/create route in Express to insert a new burger into the MySQL database
 * re-routes the webpage back to the index, where the burger is now ready to be esktop View
-o 
-![Alt text](https://fast-brushlands-34031.herokuapp.com/index "Full screen")
-o 
 
