@@ -6,10 +6,10 @@
 
 -- Seed Burgers into Database ... No Sesame! (hehehe)
 INSERT INTO burgers(burger_name, devoured, date)
-VALUES ("Big Mac", false, "2017-11-17 00:00:00"),
-  ("Whooper", false, "2017-11-17 00:00:00"),
-  ("Cheezburger", false, "2017-11-17 00:00:00"),
-  ("Baconator", false, "2017-11-17 00:00:00"),
-  ("Quarter Pounder", false, "2017-11-17 00:00:00"),
-  ("BBQ Bacon Burger", false, "2017-11-17 00:00:00"),
-  ("Five Guys", true, "2017-11-17 00:00:00");
+VALUES ("Big Mac", false, current_timestamp()),
+  ("Whooper", false, current_timestamp()),
+  ("Cheezburger", false, current_timestamp()),
+  ("Baconator", false, current_timestamp()),
+  ("Quarter Pounder", false, current_timestamp()),
+  ("BBQ Bacon Burger", false, current_timestamp()),
+  ("Five Guys", true,current_timestamp());
