@@ -21,3 +21,5 @@ CREATE a new burger using the "Place Order" form, which...
 hits a /burger/create route in Express to insert a new burger into the MySQL database
 re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
 
+![image](https://user-images.githubusercontent.com/26799439/35938669-d0102966-0c17-11e8-922c-e209dd962672.png)
+
