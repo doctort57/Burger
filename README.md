@@ -28,3 +28,5 @@ re-routes the webpage back to the index, where the burger is now ready to be eat
 
 ![image](https://user-images.githubusercontent.com/26799439/35938776-3af5e6f8-0c18-11e8-9204-500401144a64.png)
 
+![image](https://user-images.githubusercontent.com/26799439/35938840-682123ea-0c18-11e8-97b8-84738fdeef11.png)
+
