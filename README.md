@@ -28,6 +28,6 @@ re-routes the webpage back to the index, where the burger is now ready to be eat
 
 [Saved](https://user-images.githubusercontent.com/26799439/35938776-3af5e6f8-0c18-11e8-9204-500401144a64.png)
 
-[Devour](![image](https://user-images.githubusercontent.com/26799439/36029561-be41e552-0d71-11e8-8792-47b71f3dd342.png)
+[Devour](https://user-images.githubusercontent.com/26799439/36029561-be41e552-0d71-11e8-8792-47b71f3dd342.png)
 
 
