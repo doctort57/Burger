@@ -24,10 +24,10 @@ re-routes the webpage back to the index, where the burger is now ready to be eat
 ## Screen Shots
 [Start](https://user-images.githubusercontent.com/26799439/35938669-d0102966-0c17-11e8-922c-e209dd962672.png)
 
-[Add a Burger](https://user-images.githubusercontent.com/26799439/35938721-052fe618-0c18-11e8-86c2-393f2c98d181.png)
+[Devour](https://user-images.githubusercontent.com/26799439/35938721-052fe618-0c18-11e8-86c2-393f2c98d181.png)
 
-[Saved](https://user-images.githubusercontent.com/26799439/35938776-3af5e6f8-0c18-11e8-9204-500401144a64.png)
+[Add a Burger](https://user-images.githubusercontent.com/26799439/35938776-3af5e6f8-0c18-11e8-9204-500401144a64.png)
 
-[Devour](https://user-images.githubusercontent.com/26799439/36029561-be41e552-0d71-11e8-8792-47b71f3dd342.png)
+[Saved](https://user-images.githubusercontent.com/26799439/36029561-be41e552-0d71-11e8-8792-47b71f3dd342.png)
 
 
