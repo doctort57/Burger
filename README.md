@@ -22,7 +22,7 @@ hits a /burger/create route in Express to insert a new burger into the MySQL dat
 re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
 
 ## Screen Shots
-![image](https://user-images.githubusercontent.com/26799439/35938669-d0102966-0c17-11e8-922c-e209dd962672.png)
+[Start](https://user-images.githubusercontent.com/26799439/35938669-d0102966-0c17-11e8-922c-e209dd962672.png)
 
 ![image](https://user-images.githubusercontent.com/26799439/35938721-052fe618-0c18-11e8-86c2-393f2c98d181.png)
 
